@@ -1,0 +1,9 @@
+E:\Project\MyContainer\MyContainer\bin\Debug\netcoreapp2.1\MyContainer.deps.json
+E:\Project\MyContainer\MyContainer\bin\Debug\netcoreapp2.1\MyContainer.dll
+E:\Project\MyContainer\MyContainer\bin\Debug\netcoreapp2.1\MyContainer.pdb
+E:\Project\MyContainer\MyContainer\obj\Debug\netcoreapp2.1\MyContainer.csprojAssemblyReference.cache
+E:\Project\MyContainer\MyContainer\obj\Debug\netcoreapp2.1\MyContainer.csproj.CoreCompileInputs.cache
+E:\Project\MyContainer\MyContainer\obj\Debug\netcoreapp2.1\MyContainer.AssemblyInfoInputs.cache
+E:\Project\MyContainer\MyContainer\obj\Debug\netcoreapp2.1\MyContainer.AssemblyInfo.cs
+E:\Project\MyContainer\MyContainer\obj\Debug\netcoreapp2.1\MyContainer.dll
+E:\Project\MyContainer\MyContainer\obj\Debug\netcoreapp2.1\MyContainer.pdb
